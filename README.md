@@ -6,6 +6,8 @@ A Python-based simulation visualizing a black hole, an accretion disk, and gravi
 
 ---
 
+  <img width="1920" height="978" alt="2026-11-18 (2)" src="https://github.com/user-attachments/assets/293a47e6-f40d-4be5-80a6-004045fbbfa0" />
+
 ## 🌟 Features
 
 * **Gravitational Lensing:** Bends light rays from a procedural background starfield around the black hole's event horizon.
