@@ -1,5 +1,3 @@
-Here is a revised, straightforward `README.md` tailored for a physics capstone project—keeping the tone grounded and highlighting the actual features and controls built into your code:
-
 ---
 
 # 🌌 3D Black Hole & Gravitational Lensing Simulation
